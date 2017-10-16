@@ -1,8 +1,7 @@
 
 # PROJETO FÁBRICA DE CARROS
 
-Projeto Criado para uma Fábrica de Carros.Onde no mesmo foi Utilizado 4 Design patterns.
-São eles:
+Projeto Criado para uma Fábrica de Carros,onde no mesmo foi Utilizado 4 Design patterns.São eles:
 <p><strong>*Factory</strong> </p>
 <p><strong>*Decorator</strong> </p>
 <p><strong>*Composite</strong> </p>
