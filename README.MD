@@ -8,11 +8,11 @@ Projeto Criado para uma Fábrica de Carros,onde no mesmo foi Utilizado 4 Design 
 <p><strong>*Buider</strong> </p>
 
 
-## Explição de utilização dos Patterns no Projeto
+## Utilização dos Patterns no Projeto
 
--FACTORY: Foi ultilizada para definir uma interface para criar um objeto, deixando as subclasses decidirem que classe instanciar.Fazendo com que o mesmo possa adiar a instanciação para subclasses.
+<strong>Factory</strong>: Foi ultilizada para definir uma interface para criar um objeto, deixando as subclasses decidirem que classe instanciar.Fazendo com que o mesmo possa adiar a instanciação para subclasses.
 
-*Ou seja, ao invés de criar objetos diretamente em uma classe concreta,onde eu defini uma interface de criação de objetos e cada subclasse fica responsável por criar seus objetos. Seria como se, ao invés de ter uma fábrica de carros, nós tivéssemos uma fábrica da Fiat, que cria o carro da Fiat, uma fábrica da Ford, que cria o carro da Ford e etc.
+-Ou seja, ao invés de criar objetos diretamente em uma classe concreta,onde eu defini uma interface de criação de objetos e cada subclasse fica responsável por criar seus objetos. Seria como se, ao invés de ter uma fábrica de carros, nós tivéssemos uma fábrica da Fiat, que cria o carro da Fiat, uma fábrica da Ford, que cria o carro da Ford e etc.
 =======================================================================================================================================
 
 -DECORATOR: Utilizei esse padrão para Dinamicamente, agregar responsabilidades adicionais aos objetos o qual eu criei. Assim fornecendo uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
