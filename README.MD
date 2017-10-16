@@ -4,13 +4,11 @@
 Projeto Criado para uma Fábrica de Carros.Onde no mesmo foi Utilizado 4 Design patterns.
 São eles:
 
-<p>
-  <strong>FACTORY</strong> DA-TWO-K!
-</p>
-*FACTORY
-*DECORATOR
-*COMPOSITE
-*BUILDER
+<p><strong>FACTORY</strong> </p>
+<p><strong>DECORATOR</strong> </p>
+<p><strong>COMPOSITE</strong> </p>
+<p><strong>BUILDER</strong> </p>
+
 
 ## Explição de utilização dos Patterns no Projeto
 
