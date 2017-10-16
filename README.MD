@@ -23,7 +23,7 @@ Projeto Criado para uma Fábrica de Carros,onde no mesmo foi Utilizado 4 Design 
 <strong>Composite</strong>: Utilizei esse padrão para compor objetos em estruturas de árvore para representar hierarquia partes-todo. permitindo assim  aos clientes tratarem de maneira uniforme objetos individuais e composições dos objetos criados.
 
 *Considerando que um objeto carro pode ser elemento de um objeto garagem,considerando assim que garagem é uma lista de carro.
-dentro da garagem existe um atibuto e uma lista de carro,onde cada carro à tambem possui seus atibutos, essa lista de carro funciona como atributo de garagem. Facilitando o tratamento dos objetos para poder conseguir guardar os carros dentro dessa garaem.
+dentro da garagem existe um atributo e uma lista de carro,onde cada carro à tambem possui seus atibutos, essa lista de carro funciona como atributo de garagem. Facilitando o tratamento dos objetos para poder conseguir guardar os carros dentro dessa garaem.
 
 <strong>Builder</strong>: Utilizei esse padrão para poder separar a construção de um objeto complexo de sua representação de modo que o mesmo processo de construção possa criar diferentes representações.Como também permitir separar os passos de construção de um objeto em pequenos métodos.
 
