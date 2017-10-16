@@ -3,6 +3,10 @@
 
 Projeto Criado para uma Fábrica de Carros.Onde no mesmo foi Utilizado 4 Design patterns.
 São eles:
+
+<p>
+  <strong>FACTORY</strong> DA-TWO-K!
+</p>
 *FACTORY
 *DECORATOR
 *COMPOSITE
