@@ -3,11 +3,10 @@
 
 Projeto Criado para uma Fábrica de Carros.Onde no mesmo foi Utilizado 4 Design patterns.
 São eles:
-
-<p><strong>FACTORY</strong> </p>
-<p><strong>DECORATOR</strong> </p>
-<p><strong>COMPOSITE</strong> </p>
-<p><strong>BUILDER</strong> </p>
+<p><strong>*Factory</strong> </p>
+<p><strong>*Decorator</strong> </p>
+<p><strong>*Composite</strong> </p>
+<p><strong>*Buider</strong> </p>
 
 
 ## Explição de utilização dos Patterns no Projeto
